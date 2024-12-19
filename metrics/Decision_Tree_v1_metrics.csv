@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Decision Tree,0.8787,0.471,0.6207,0.5356,0.7661
